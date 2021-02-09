@@ -3,9 +3,9 @@ import './main.css';
 
 const Main = () => {
     return (
-        <div>
+        <body>
             This is a test.
-        </div>
+        </body>
 )
 }
 export default Main;

@@ -1,4 +1,7 @@
 body {
     height: 100vh;
-    background-color: aliceblue;
+    width: 100vw;
+    background-image: url('./assets/bg1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
