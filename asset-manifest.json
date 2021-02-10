@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Baseballscorekeeper/static/css/main.0cc49e39.chunk.css",
+    "main.js": "/Baseballscorekeeper/static/js/main.2ccc77a0.chunk.js",
+    "main.js.map": "/Baseballscorekeeper/static/js/main.2ccc77a0.chunk.js.map",
+    "runtime-main.js": "/Baseballscorekeeper/static/js/runtime-main.6ce8b0cc.js",
+    "runtime-main.js.map": "/Baseballscorekeeper/static/js/runtime-main.6ce8b0cc.js.map",
+    "static/css/2.1d146257.chunk.css": "/Baseballscorekeeper/static/css/2.1d146257.chunk.css",
+    "static/js/2.e0b0aeb9.chunk.js": "/Baseballscorekeeper/static/js/2.e0b0aeb9.chunk.js",
+    "static/js/2.e0b0aeb9.chunk.js.map": "/Baseballscorekeeper/static/js/2.e0b0aeb9.chunk.js.map",
+    "static/js/3.9f7496a8.chunk.js": "/Baseballscorekeeper/static/js/3.9f7496a8.chunk.js",
+    "static/js/3.9f7496a8.chunk.js.map": "/Baseballscorekeeper/static/js/3.9f7496a8.chunk.js.map",
+    "index.html": "/Baseballscorekeeper/index.html",
+    "static/css/2.1d146257.chunk.css.map": "/Baseballscorekeeper/static/css/2.1d146257.chunk.css.map",
+    "static/css/main.0cc49e39.chunk.css.map": "/Baseballscorekeeper/static/css/main.0cc49e39.chunk.css.map",
+    "static/js/2.e0b0aeb9.chunk.js.LICENSE.txt": "/Baseballscorekeeper/static/js/2.e0b0aeb9.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/Baseballscorekeeper/static/media/bg1.1fa6b3e3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ce8b0cc.js",
+    "static/css/2.1d146257.chunk.css",
+    "static/js/2.e0b0aeb9.chunk.js",
+    "static/css/main.0cc49e39.chunk.css",
+    "static/js/main.2ccc77a0.chunk.js"
+  ]
+}
