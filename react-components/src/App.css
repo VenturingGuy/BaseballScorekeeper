@@ -22,6 +22,15 @@ h1, h4, .menu-item {
   font-family: 'ABeeZee', sans-serif;
 }
 
+h2 {
+  font-style: italic;
+  font-family: 'ABeeZee', sans-serif;
+}
+
+.menu-item {
+  line-height: 20px;
+}
+
 .App-logo {
   height: 80px;
   pointer-events: none;
